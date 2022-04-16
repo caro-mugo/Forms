@@ -1,0 +1,172 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+body{
+    background-image: linear-gradient(to right, rgba(175,133,53), rgb(238,182,238));
+   
+  }
+.section2{
+      height:590px;
+      width: 610px;
+     background: rgb(252, 253, 253);
+      margin-left: 20%;
+     margin-top:1% ;
+     position: fixed;
+     margin-left: 40%;
+     border-radius: 0%;
+    
+    
+}
+.section1{
+    height: 590px;
+    width: 30%;
+    background: rgb(238, 188, 96);
+    position: fixed;
+    margin-top: 1%;
+    margin-left: 10%;
+    border-radius: 0%;
+    
+ 
+    
+
+}
+h3{
+    color:#080808;
+    margin-left:8px;
+    margin-top: 2px;
+    font-family: 'Dancing Script', cursive;
+    
+   
+    
+
+    
+}
+h2{
+    font-size:x-large;
+    text-align: center;
+    font-style: oblique;
+    
+    color: #141414;
+   }
+img{
+    margin-left: 35px;
+    width:80%;
+    height:300px;
+    border: none;
+    
+    
+
+}
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: left;
+   margin-top: 4px;
+   margin-left: 6px;
+   margin-top: 30px;
+    
+}
+h5{
+    margin-left: 70%;
+  
+}
+h1{
+    margin-left:20%;
+    margin-top:5%;
+    font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+ font-size:x-large;
+}
+h4{
+    margin-top:15% ;
+    margin-left:25%;
+}
+
+h6{
+    font-size:small;
+    margin-top:15%;
+    margin-left:25%;
+}
+.container{
+    background-color: #4285F4;
+    font-size: large;
+    justify-content: space-between;
+    width: 50%;
+    height: 6vh;
+    margin-left: 5%;
+    border-radius: 3%;
+    
+
+    }
+
+.section3{
+  display: flex;
+}
+label{
+  font-size: 20px;
+}
+input{
+  font-size: 20px;
+}
+.firstname{
+  padding: 10px;
+}
+.uname{
+  padding: 10px;
+}
+.sign{
+  padding: 16px;
+  background-color: rgb(223, 77, 101);
+  border: none;
+  border-radius: 5px;
+  border-top: 3%;
+  color: white;
+  border-right: 5%;
+  margin-left: 1%;
+  margin-top: 1%;
+  margin-bottom: 7%;
+  
+
+}
+.signup{
+    margin-left: 5%;
+    background-color: #4285F4;
+    font-size:large;
+    margin-left: 21;
+    color: white;
+
+}
+.footer{
+margin-top: -7%;
+margin-left: 1%;
+}
+.fa-twitter{
+  color:white;
+  background-color:#00acee;
+  height: 30px;
+  width: 35px;
+  margin-top: 1%;
+  padding-top: 1%;
+  text-align: center;
+  margin-left:3% ;
+}
+.fa-facebook{
+  color:white;
+  background-color: #3b5998;
+  height: 30px ;
+  width: 35px;
+  margin-top: 1%;
+  padding-top: 1%;
+  text-align: center;
+  margin-left:2% ;
+
+}
+input[type=text],FirstName{
+ height: 50%;
+ margin-left: -1%;
+ width: 80%;
+}
+input[type=email],Email Adress{
+  height: 60%;
+  width:30%;
+}
+input[type=password],Password{
+  height: 50%;
+  width:50%;
+}

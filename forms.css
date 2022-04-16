@@ -1,0 +1,71 @@
+body{
+  background-image: linear-gradient(to right, rgba(175,133,53), rgb(238,182,238));
+ 
+}
+.section2{
+  height:500px;
+  width: 600px;
+ background: rgb(252, 253, 253);
+  margin-right: 20%;
+ margin-top:7% ;
+ position: fixed;
+ 
+
+
+}
+.section3{
+  display: flex;
+}
+label{
+  font-size: 20px;
+}
+input{
+  font-size: 20px;
+}
+.firstname{
+  padding: 10px;
+}
+.uname{
+  padding: 10px;
+}
+.sign{
+  padding: 30px;
+  background-color: rgb(223, 77, 101);
+  border: none;
+  border-radius: 5px;
+  border-top: 3%;
+  color: white;
+  border-right: 6%;
+  margin-left: 7%;
+
+}
+.signup{
+    margin-left: 5%;
+    background-color: #4285F4;
+    font-size:large;
+
+}
+.fa-twitter{
+  color:white;
+  background-color:#00acee;
+  height: 30px;
+  width: 30px;
+  margin-top: 1%;
+  padding-top: 1%;
+  text-align: center;
+  margin-left:3% ;
+}
+.fa-facebook{
+  color:white;
+  background-color: #3b5998;
+  height: 30px ;
+  width: 30px;
+  margin-top: 1%;
+  padding-top: 1%;
+  text-align: center;
+  margin-left:2% ;
+
+}
+
+
+
