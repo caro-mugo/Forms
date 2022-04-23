@@ -204,3 +204,9 @@ input[type=password],Password{
 .section4{
   margin-left: 0%;
 }
+.text{
+  font-family: 'Orelega One', cursive;
+  font-size: 20px;
+  margin-left: 16%;
+  margin-top: 20%;
+}

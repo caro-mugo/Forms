@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Orelega+One&family=Ubuntu+Mono&display=swap');
+
 body{
     background-image: linear-gradient(to right, rgba(175,133,53), rgb(238,182,238));
    
@@ -64,7 +66,8 @@ p{
     
 }
 .word{
-  margin-left: 10%;
+  margin-left: 11%;
+  margin-top: -4%;
 }
 h5{
     margin-left: 70%;
@@ -195,5 +198,13 @@ input[type=password],Password{
 .check{
   margin-left: 3%;
   margin-top: 3%;
+}
+.text{
+  margin-left: 20%;
+  margin-top: 15%;
+  font-family: 'Orelega One', cursive;
+  font-size: 20px;
+
+
 }
 
